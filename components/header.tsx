@@ -21,8 +21,8 @@ export default function Header() {
       <nav className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center gap-2">
-            <Link href="/" className="text-2xl font-bold text-primary">
-              DMKV
+            <Link href="/" className="flex items-center gap-2">
+              <img src="/dmkv-logo.svg" alt="DMKV Logo" className="h-12 w-auto" />
             </Link>
           </div>
 

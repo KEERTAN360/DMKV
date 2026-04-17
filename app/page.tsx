@@ -9,7 +9,7 @@ export default function Home() {
       icon: Zap,
       href: 'https://www.dmkvhouseofmarketing.com',
       external: true,
-      color: 'from-neutral-700 to-neutral-500'
+      color: 'from-indigo-600 to-violet-600'
     },
     {
       title: 'Publications',
@@ -17,7 +17,7 @@ export default function Home() {
       icon: BookOpen,
       href: '/publications',
       external: false,
-      color: 'from-neutral-600 to-neutral-400'
+      color: 'from-violet-600 to-fuchsia-600'
     },
     {
       title: 'Labs',
@@ -25,7 +25,7 @@ export default function Home() {
       icon: Cpu,
       href: '/labs',
       external: false,
-      color: 'from-neutral-500 to-neutral-300'
+      color: 'from-blue-600 to-cyan-600'
     },
     {
       title: 'Production',
@@ -33,7 +33,7 @@ export default function Home() {
       icon: Film,
       href: '/production',
       external: false,
-      color: 'from-neutral-400 to-neutral-200'
+      color: 'from-indigo-500 to-blue-500'
     }
   ]
 

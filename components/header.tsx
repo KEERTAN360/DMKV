@@ -22,7 +22,7 @@ export default function Header() {
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center gap-2">
             <Link href="/" className="flex items-center gap-2">
-              <img src="/dmkv-logo.svg" alt="DMKV Logo" className="h-12 w-auto" />
+              <img src="/icon.png" alt="DMKV Logo" className="h-12 w-auto" />
             </Link>
           </div>
 
